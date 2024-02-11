@@ -24,7 +24,6 @@
 		0D0A53482B68A553004EEA00 /* BeerDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D0A53472B68A553004EEA00 /* BeerDetailsView.swift */; };
 		0D0A534A2B68A572004EEA00 /* BeerDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D0A53492B68A572004EEA00 /* BeerDetailsViewController.swift */; };
 		0D0A534E2B726A8D004EEA00 /* Beer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D0A534D2B726A8D004EEA00 /* Beer.swift */; };
-		0D0A53522B73FD42004EEA00 /* BeerCaching.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D0A53512B73FD42004EEA00 /* BeerCaching.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,7 +65,6 @@
 		0D0A53472B68A553004EEA00 /* BeerDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeerDetailsView.swift; sourceTree = "<group>"; };
 		0D0A53492B68A572004EEA00 /* BeerDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeerDetailsViewController.swift; sourceTree = "<group>"; };
 		0D0A534D2B726A8D004EEA00 /* Beer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Beer.swift; sourceTree = "<group>"; };
-		0D0A53512B73FD42004EEA00 /* BeerCaching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeerCaching.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,7 +172,6 @@
 			children = (
 				0D0A53402B68A474004EEA00 /* BeerService.swift */,
 				0D0A53422B68A48B004EEA00 /* Constatnts.swift */,
-				0D0A53512B73FD42004EEA00 /* BeerCaching.swift */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -359,7 +356,6 @@
 				0D0A53332B68A16C004EEA00 /* BeerController.swift in Sources */,
 				0D0A533B2B68A268004EEA00 /* BeerViewController.swift in Sources */,
 				0D0A534A2B68A572004EEA00 /* BeerDetailsViewController.swift in Sources */,
-				0D0A53522B73FD42004EEA00 /* BeerCaching.swift in Sources */,
 				0D0A53392B68A243004EEA00 /* BeerView.swift in Sources */,
 				0D0A53412B68A474004EEA00 /* BeerService.swift in Sources */,
 				0D0A53012B689FEA004EEA00 /* AppDelegate.swift in Sources */,
